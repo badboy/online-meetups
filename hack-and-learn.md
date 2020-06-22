@@ -24,4 +24,8 @@ TODO: Explain our Matrix server
 
 ## Interactive video meeting
 
-TODO: Mention onlinetown.
+### [Online Town](https://theonline.town/)
+
+This free tool allows us to have spatialised voice as well as video chat, meaning we can walk around in a virtual 2D room and have multiple conversations at once, that we can participate in depending on how close we are to one another. It allows us to break into groups and hold side-conversations!
+
+It (currently) doesn't allow screen-sharing, however.
